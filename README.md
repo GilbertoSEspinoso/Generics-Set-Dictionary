@@ -7,7 +7,7 @@ Seção #15 | Curso Completo de C# | Exercício resolvido
 ## Exercício resolvido sobre conjuntos
 Um site de internet registra um log de acessos dos usuários. Um Registro de log consiste no nome de usuário e o instante em que o usuário acessou o site no padrão ISO 8601, separados por espaço, conforme	exemplo. Fazer um programa que leia o log de acessos a partir de um arquivo, e daí informe quantos usuários distintos acessaram o site.
 
-**Exemplo
+**Exemplo**
 
 amanda 2020-08-26T20:45:08</br>
 alex86 2020-08-26T21:49:37</br>
@@ -16,7 +16,7 @@ amanda 2020-08-27T08:11:00</br>
 jeniffer3 2020-08-27T09:19:24</br>
 alex86 2020-08-28T07:42:19</br>
 
-**Execution:
+**Execution:**
 
 Enter file full path: c:\temp\in.txt
 Total users: 4
