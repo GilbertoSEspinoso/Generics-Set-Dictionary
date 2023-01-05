@@ -11,8 +11,8 @@ Um site de internet registra um log de acessos dos usuários. Um Registro de log
 
 amanda 2020-08-26T20:45:08</br>
 alex86 2020-08-26T21:49:37</br>
-bobbrown 2020-08-27T03:19:13</br
-amanda 2020-08-27T08:11:00</br
+bobbrown 2020-08-27T03:19:13</br>
+amanda 2020-08-27T08:11:00</br>
 jeniffer3 2020-08-27T09:19:24</br>
 alex86 2020-08-28T07:42:19</br>
 
