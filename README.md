@@ -10,7 +10,6 @@ Um site de internet registra um log de acessos dos usuários. Um Registro de log
 **Exemplo
 
 amanda 2020-08-26T20:45:08
-
 alex86 2020-08-26T21:49:37
 bobbrown 2020-08-27T03:19:13
 amanda 2020-08-27T08:11:00
