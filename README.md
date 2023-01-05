@@ -1,4 +1,4 @@
-# Generics-Set-Dictionary
+# Generics-HashSet-GetHashCode-Equals
 Seção #15 | Curso Completo de C# | Exercício resolvido
 
 **Olá, esse projeto é apenas um dos exercícios que fiz no meu curso de C# e achei legal compartilhar ele com vocês.**
